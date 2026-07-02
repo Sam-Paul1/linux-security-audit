@@ -105,7 +105,9 @@ Run
 
 ### Audit Report
 
-> *(Add a screenshot here after uploading one to the repository.)*
+## Audit Output
+
+![Audit Output](screenshots/audit-output.png)
 
 ```
 ====================================
